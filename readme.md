@@ -49,7 +49,7 @@ The project follows clean architecture principles with the following layers:
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/inventory-management-api.git
+   git clone https://github.com/abhiraj-cuchd/retail-inventory-backend-api.git
    cd inventory-management-api
    \`\`\`
 
